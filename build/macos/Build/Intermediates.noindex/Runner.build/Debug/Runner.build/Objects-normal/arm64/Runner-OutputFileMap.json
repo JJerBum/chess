@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/Runner-master.dia",
+    "emit-module-dependencies" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/Runner-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/Runner-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/Runner-master.swiftdeps"
+  },
+  "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/jjerbum/Workspace/flutter/chess/macos/Flutter/GeneratedPluginRegistrant.swift" : {
+    "const-values" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.swiftconstvalues",
+    "dependencies" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.d",
+    "diagnostics" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.o",
+    "llvm-bc" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.bc",
+    "object" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.o",
+    "swift-dependencies" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.swiftdeps",
+    "swiftmodule" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant~partial.swiftmodule"
+  },
+  "/Users/jjerbum/Workspace/flutter/chess/macos/Runner/AppDelegate.swift" : {
+    "const-values" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/jjerbum/Workspace/flutter/chess/macos/Runner/MainFlutterWindow.swift" : {
+    "const-values" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.swiftconstvalues",
+    "dependencies" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.d",
+    "diagnostics" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.o",
+    "llvm-bc" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.bc",
+    "object" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.o",
+    "swift-dependencies" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.swiftdeps",
+    "swiftmodule" : "/Users/jjerbum/Workspace/flutter/chess/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow~partial.swiftmodule"
+  }
+}
