@@ -1,4 +1,4 @@
-#Sun Nov 19 21:37:11 KST 2023
-base.0=/Users/jjerbum/Workspace/flutter/chess/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Mon Jan 08 20:21:32 KST 2024
+base.0=/Users/jjerbum/Workspace/flutter/flutter-chess/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -4,7 +4,7 @@
             "outputFile": "com.example.chess.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/jjerbum/Workspace/flutter/chess/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/jjerbum/Workspace/flutter/flutter-chess/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
